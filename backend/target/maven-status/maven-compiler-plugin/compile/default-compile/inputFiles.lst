@@ -1,0 +1,10 @@
+/Users/vishalaggarwal/Desktop/HeydoTech/VoiceAi/backend/src/main/java/com/voiceai/service/GeminiService.java
+/Users/vishalaggarwal/Desktop/HeydoTech/VoiceAi/backend/src/main/java/com/voiceai/config/WebClientConfig.java
+/Users/vishalaggarwal/Desktop/HeydoTech/VoiceAi/backend/src/main/java/com/voiceai/model/AnalysisReport.java
+/Users/vishalaggarwal/Desktop/HeydoTech/VoiceAi/backend/src/main/java/com/voiceai/service/AudioAnalysisService.java
+/Users/vishalaggarwal/Desktop/HeydoTech/VoiceAi/backend/src/main/java/com/voiceai/service/OpenAIService.java
+/Users/vishalaggarwal/Desktop/HeydoTech/VoiceAi/backend/src/main/java/com/voiceai/controller/AudioController.java
+/Users/vishalaggarwal/Desktop/HeydoTech/VoiceAi/backend/src/main/java/com/voiceai/VoiceAiApplication.java
+/Users/vishalaggarwal/Desktop/HeydoTech/VoiceAi/backend/src/main/java/com/voiceai/dto/AnalysisRequest.java
+/Users/vishalaggarwal/Desktop/HeydoTech/VoiceAi/backend/src/main/java/com/voiceai/config/CorsConfig.java
+/Users/vishalaggarwal/Desktop/HeydoTech/VoiceAi/backend/src/main/java/com/voiceai/repository/AnalysisReportRepository.java

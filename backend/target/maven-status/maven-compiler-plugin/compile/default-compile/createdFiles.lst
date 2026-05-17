@@ -1,0 +1,12 @@
+com/voiceai/dto/AnalysisRequest.class
+com/voiceai/VoiceAiApplication.class
+com/voiceai/service/AudioAnalysisService.class
+com/voiceai/model/AnalysisReport$Builder.class
+com/voiceai/repository/AnalysisReportRepository.class
+com/voiceai/config/CorsConfig.class
+com/voiceai/controller/AudioController.class
+com/voiceai/model/AnalysisReport.class
+com/voiceai/service/GeminiService.class
+com/voiceai/service/OpenAIService$1.class
+com/voiceai/config/WebClientConfig.class
+com/voiceai/service/OpenAIService.class
